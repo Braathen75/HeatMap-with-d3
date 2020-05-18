@@ -1,0 +1,21 @@
+body{
+  background-color: #f9fcd3;
+}
+
+h1{
+  text-align: center;
+}
+
+#description{
+  text-align: center;
+  font-size: 16px;
+}
+
+#tooltip {
+  font-family: "Open Sans";
+  color: #303030;
+  position: absolute;
+  border-radius: 5%;
+  background-color: #f6caca;
+  padding: 8px 8px 8px 8px;
+}
